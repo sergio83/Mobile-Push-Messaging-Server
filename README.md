@@ -10,7 +10,9 @@ Next the server can be used to send push notifications to users. The server send
 And finally APNS and GSM sends the push notification to the user’s device.
 
 
+<br>
 <a href='http://postimage.org/' target='_blank'><img src='http://s28.postimg.org/o8ega2la5/Captura_de_pantalla_2014_04_05_a_la_s_02_53_39.png' border='0' alt="Captura de pantalla 2014 04 05 a la(s) 02 53 39" /></a>
+<br>
 
 
 Requirements
