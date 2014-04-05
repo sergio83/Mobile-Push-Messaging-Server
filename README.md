@@ -12,9 +12,9 @@ And finally APNS and GSM sends the push notification to the user’s device.
 Requirements
 ==============
 - Bootstrap 2.3.1
-- PHP
-- MySql
-- Apache
+- PHP 5
+- MySql 5.5
+- Apache 2.2
 
 Licence
 ==============
