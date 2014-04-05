@@ -24,4 +24,4 @@ Requirements
 
 Licence
 ==============
-Harvest is licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+This code is licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
