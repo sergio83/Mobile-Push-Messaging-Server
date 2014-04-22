@@ -125,7 +125,7 @@ function sendMessageToIphones($msg,$badge,$index,$updateContent){
 	$apns = new APNS($db);
 
 	// Get a list of devices that want to receive updates
-	$sql = "SELECT `pid` FROM `apns_devices` WHERE `status`='active';";
+	$sql = "SELECT `pid` FROM `apns_devices` WHERE `status`='active' AND devicetype = 'Iphone';";
 	$result = $db->query($sql);
 	$pids = array();
 	while($row = $result->fetch_array(MYSQLI_ASSOC)){
